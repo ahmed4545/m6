@@ -1,1 +1,1 @@
-worker: worker: node mm66.js
+worker: node mm66.js
