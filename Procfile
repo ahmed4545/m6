@@ -1,1 +1,1 @@
-worker: java -jar bot.jar -nogui
+worker: worker: node mm66.js
