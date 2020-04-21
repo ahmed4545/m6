@@ -21,4 +21,4 @@ heroo.editChannel("702208072386347028", {name : "Pubg RoomServer"})
 }, 6000);
  
 });
-heroo.connect("NzAyMjEwNzEyMjM5MzQxNzI4.Xp8uxg.sftysdd7D50tVYvAVKs07FGqY4o")
+client.login(process.env.BOT_TOKEN);
