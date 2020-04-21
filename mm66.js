@@ -1,15 +1,24 @@
+const Eris = require("eris");
 const Discord = require("discord.js");
-const client = new Discord.Client();
+const hero = new Discord.Client()
+var x5bzch = "702208072386347028";
+var heroo= new Eris("");
+ 
+heroo.on("ready", ready => {
+console.log('KingDom')
+setInterval(function(){
 
-client.on('ready', () => {
-  console.log(`Logged in as ${client.user.tag} !`);
+heroo.editChannel("401741057156579328", {name : "P})
+heroo.editChannel("401741057156579328", {name : "Pu"})
+heroo.editChannel("401741057156579328", {name : "Pub"})
+heroo.editChannel("401741057156579328", {name : "Pubg "})
+heroo.editChannel("401741057156579328", {name : "Pubg R"})
+heroo.editChannel("401741057156579328", {name : "Pubg Roo"})
+heroo.editChannel("401741057156579328", {name : "Pubg Room"})
+heroo.editChannel("401741057156579328", {name : "Pubg RoomServer"})
+
+
+}, 6000);
  
 });
- 
-client.on('guildMemberAdd',async member => {
-  if(member.guild.id !== '537968114340724746') return;
-  setTimeout(function(){
-  member.guild.channels.find(r => r.id === '537969708545343508').send('*Welcome to BubblesAvatar.*');
-},3000);
-});
-client.login(process.env.BOT_TOKEN);
+heroo.connect("NzAyMjA4NjM1NTkzMjkzODI1.Xp8tog.igNyTlTW0VI7UzWahu2R2qLvDew")
