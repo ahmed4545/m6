@@ -2,7 +2,7 @@ const Eris = require("eris");
 const Discord = require("discord.js");
 const hero = new Discord.Client()
 var x5bzch = "702208072386347028";
-var heroo= new Eris("");
+var heroo= new Eris("543156125613424653");
  
 heroo.on("ready", ready => {
 console.log('KingDom')
