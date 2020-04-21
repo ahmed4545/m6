@@ -8,14 +8,14 @@ heroo.on("ready", ready => {
 console.log('KingDom')
 setInterval(function(){
 
-heroo.editChannel("401741057156579328", {name : "P"})
-heroo.editChannel("401741057156579328", {name : "Pu"})
-heroo.editChannel("401741057156579328", {name : "Pub"})
-heroo.editChannel("401741057156579328", {name : "Pubg "})
-heroo.editChannel("401741057156579328", {name : "Pubg R"})
-heroo.editChannel("401741057156579328", {name : "Pubg Roo"})
-heroo.editChannel("401741057156579328", {name : "Pubg Room"})
-heroo.editChannel("401741057156579328", {name : "Pubg RoomServer"})
+heroo.editChannel("702208072386347028", {name : "P"})
+heroo.editChannel("702208072386347028", {name : "Pu"})
+heroo.editChannel("702208072386347028", {name : "Pub"})
+heroo.editChannel("702208072386347028", {name : "Pubg "})
+heroo.editChannel("702208072386347028", {name : "Pubg R"})
+heroo.editChannel("702208072386347028", {name : "Pubg Roo"})
+heroo.editChannel("702208072386347028", {name : "Pubg Room"})
+heroo.editChannel("702208072386347028", {name : "Pubg RoomServer"})
 
 
 }, 6000);
