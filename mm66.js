@@ -8,7 +8,7 @@ heroo.on("ready", ready => {
 console.log('KingDom')
 setInterval(function(){
 
-heroo.editChannel("401741057156579328", {name : "P})
+heroo.editChannel("401741057156579328", {name : "P"})
 heroo.editChannel("401741057156579328", {name : "Pu"})
 heroo.editChannel("401741057156579328", {name : "Pub"})
 heroo.editChannel("401741057156579328", {name : "Pubg "})
